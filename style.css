@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Karla:wght@800&display=swap");
+
+.pw {
+  height: 40px;
+  width: 220px;
+  padding: 10px;
+  margin-right: 20px;
+  background: #273549;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #55f991;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+html {
+  background-color: #1c1c1c;
+}
+
+h1 {
+  font-family: "Karla", sans-serif;
+  font-size: 40px;
+  line-height: 20px;
+  color: white;
+}
+
+.green-text {
+  color: #4adf86;
+}
+
+p {
+  font-size: 20px;
+  line-height: 28px;
+  color: white;
+}
+
+.container {
+  background-color: #1f2937;
+  width: 550px;
+  height: 550px;
+  margin: 20px auto;
+  padding: 50px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pw-container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+button {
+  margin-bottom: 20px;
+  font-size:16px;
+  line-height: 24px;
+  color:white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  width: 191px;
+  height: 42px;
+  background: #10b981;
+  border-radius: 6px;
+  border:none;
+  cursor: pointer;
+}
+
+hr {
+  background-color: #2f3e53;
+  height: 1px;
+  border: none;
+  margin: 20px 0px;
+}
