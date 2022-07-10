@@ -4,7 +4,6 @@
   height: 40px;
   width: 220px;
   padding: 10px;
-  margin-right: 20px;
   background: #273549;
   border-radius: 6px;
   display: flex;
@@ -17,6 +16,13 @@
   font-size: 22px;
 }
 
+.pw-copy {
+  height:60px;
+  width:60px;
+  margin-right:20px;
+
+}
+
 html {
   background-color: #1c1c1c;
 }
@@ -24,7 +30,7 @@ html {
 h1 {
   font-family: "Karla", sans-serif;
   font-size: 40px;
-  line-height: 20px;
+  line-height: 40px;
   color: white;
 }
 
@@ -40,7 +46,7 @@ p {
 
 .container {
   background-color: #1f2937;
-  width: 550px;
+  width: 650px;
   height: 550px;
   margin: 20px auto;
   padding: 50px;
@@ -56,7 +62,6 @@ p {
 }
 
 button {
-  margin-bottom: 20px;
   font-size:16px;
   line-height: 24px;
   color:white;
